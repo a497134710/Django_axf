@@ -1,0 +1,1 @@
+$(function () {   console.log(1)   $('#alipay').click(function () {       var orderid = $(this).attr("orderid")       console.log(orderid)       $.get("/paysuccess/",{"orderid":orderid},function () {           window.open("/mine/",target='_self')       })   })    })
