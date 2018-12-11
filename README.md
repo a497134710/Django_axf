@@ -1,4 +1,4 @@
-# Python1807爱鲜蜂
+# Django 个人项目
 ## 一、环境说明
 - python3.5
 
