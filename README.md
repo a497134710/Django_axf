@@ -4,11 +4,7 @@
 
 ## 二、代码获取
 ```
-# SSH方式
-git clone git@github.com:iphone3/Python1807AXF.git
-
-# HTTP方式
-git clone https://github.com/iphone3/Python1807AXF.git
+  clone
 ```
 
 ## 三、安装项目依赖
