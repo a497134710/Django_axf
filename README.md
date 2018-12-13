@@ -30,11 +30,11 @@ python manage.py runserver
 
 - 闪购超市
 
-    ![market1.png](https://upload-images.jianshu.io/upload_images/1801379-17bf51ee3b697b83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   ![image.png](https://upload-images.jianshu.io/upload_images/13608116-6f72bdc54670efd7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 购物车
 
-    ![cart1.png](https://upload-images.jianshu.io/upload_images/1801379-5093d8f588a2de58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/13608116-875d9de1838609a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 我的
 
