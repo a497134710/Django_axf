@@ -1,10 +1,11 @@
-# Django 个人项目
+# Django(手机移动端)个人项目
+# http地址:http://134.175.122.244
 ## 一、环境说明
-- python3.5
+- python3.6
 
 ## 二、代码获取
 ```
-  clone
+ git clone
 ```
 
 ## 三、安装项目依赖
@@ -25,7 +26,7 @@ python manage.py runserver
 ## 五、效果图
 - 首页
 
-    ![home1.png](https://upload-images.jianshu.io/upload_images/1801379-3eee8cecbcafbc0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    ![image.png](https://upload-images.jianshu.io/upload_images/13608116-a8119aee5e09c7f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 闪购超市
 
