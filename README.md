@@ -38,7 +38,7 @@ python manage.py runserver
 
 - 我的
 
-    ![mine.png](https://upload-images.jianshu.io/upload_images/1801379-f6e65fe1c074da30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   ![image.png](https://upload-images.jianshu.io/upload_images/13608116-4bdd0f8d99649ffa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
